@@ -1,8 +1,5 @@
 # Organick-hw-04
 
-**Read in other languages: [Russian](README.md), [Ukrainian](README.ua.md),
-[English](README.en.md), [Spanish](README.es.md), [Polish](README.pl.md).**
-
 # Домашнее задание
 
 - Создай репозиторий `Organick-hw-04`.
